@@ -1,0 +1,8 @@
+*.php~
+*.orig
+userfiles/
+.idea/
+.DS_STORE
+.DS_Store
+/vendor/
+*.log
